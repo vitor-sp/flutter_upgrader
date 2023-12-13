@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
 
   # From fluttercommunity.dev: Get current device information from within the Flutter application.
-  device_info_plus: any
+  device_info_plus: ^9.1.1
 
   # Pure Dart library for HTML5 parsing
   html: ^0.15.3
@@ -30,7 +30,7 @@ dependencies:
   shared_preferences: ^2.1.1
 
   # From Flutter Team: A Flutter plugin for launching a URL in the mobile platform.
-  url_launcher: ^6.1.11
+  url_launcher: ^6.2.2
 
   # A dart library for comparing and incrementing version numbers with Semantic Versioning.
   version: ^3.0.2
